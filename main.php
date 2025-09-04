@@ -31,7 +31,7 @@
           </div>
           <div class="col-lg-7 text-center text-lg-start">
             <h3 class="display-5 fw-bold">SOPMA XXII 2025 Sarawak</h3>
-            <p class="lead text-muted">2 – 6 October 2025</p>
+            <p class="lead text-muted">22–31 October 2025</p>
             <p>
               Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's
               standard dummy text ever since the 1500s, surviving five centuries and even adapting to the digital age.
@@ -62,7 +62,7 @@
               <img src="images/logo-sopma-sarawak.png" class="card-img-top p-3" alt="SOPMA Logo">
               <div class="card-body">
                 <h5 class="card-title fw-bold">SOPMA XXII 2025 Sarawak</h5>
-                <p class="card-text text-muted">2 – 6 October 2025</p>
+                <p class="card-text text-muted">22–31 October 2025</p>
               </div>
             </div>
           </div>
